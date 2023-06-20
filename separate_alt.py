@@ -26,8 +26,8 @@ from openpyxl.utils import get_column_letter
 
 
 # INPUT FILE
-file_path = 'final_test.xlsx'
-part_num_row = 'mep_number'
+file_path = 'YOUR FILE NAME HERE'
+part_num_row = 'YOUR ROW NUMBER HERE'
 # PANDAS BLOCK
 imp_file = pd.read_excel(file_path)
 imp_file[part_num_row].fillna('N-A', inplace = True)
