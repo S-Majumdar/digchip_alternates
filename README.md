@@ -10,3 +10,7 @@ Automating cross reference search on digchip.com
 3) Replace row name with row name with all part number
 
 4) open cmd, go the directory and run using <br>```python separate_alt.py```
+
+
+## Warnings
+Code is slow by design to avoid timeouts from digchip
