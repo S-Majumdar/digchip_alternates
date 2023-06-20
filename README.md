@@ -3,8 +3,7 @@ Automating cross reference search on digchip.com
 
 ## Usage
 1) Download Micrsoft Edge webdriver from from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-<br>
-Note: Make sure Web Driver version matches exact build type of Edge
+<br>Note: Make sure Web Driver version matches exact build type of Edge
 
 2) Replace file_path with file with all part numbers
 
