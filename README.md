@@ -13,4 +13,4 @@ Automating cross reference search on digchip.com
 
 
 ## Warnings
-Code is slow by design to avoid timeouts from digchip
+Code is slow by design to avoid timeouts from digchip. Each query takes 25-30 seconds
